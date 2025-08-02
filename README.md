@@ -1,4 +1,4 @@
-# Keepitnatural247git init
+
 git remote add origin https://github.com/keepitnatural247/keep-it-natural.git
 git branch -M main
 git add .
